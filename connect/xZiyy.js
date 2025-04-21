@@ -1,31 +1,4 @@
 /*
-
-KAYANYA YANG DISINI GADA YG PERLU DI UBAH UBAH TERUNTUK USER SCRIPT
-JIKA KAMU SUDAH PAHAM TENTANG BOT TIDAK MASALAH SIH
-ERROR TANGGUNG SENDIRI
-
- Allert !
-jangan asal ubah nanti eror
-// eror? contact me : 6283804078729
-
-jangan hapus Nama gw di Tq To dasar bocah Copy paste
-// copy boleh asal apa? asal no delete w m
-// apa itu wm: watermark
-// apa itu watermark? fungsi google apa
-
-anda bingung? masuk aja gc ini
-https://chat.whatsapp.com/Lf6XnvJfYZdESpR9RfEnJh
-jangan sungkan² untuk bertanya
-
- ©Aypa Team
-* [`Aprilia`](https://github.com/?)
-* [`YanzBotz`](https://github.com/YanzBotz)
-* [`Febriansyah`](https://github.com/FebriansyahXd)
-* [`Aldi Fauzi`](https://github.com/xZiyyy) // ME xZiyy
-
-Thanks For Using My Project and Thanks For u Has Respect The creator
-*/
-
 const process = require('process');
 process.on('uncaughtException', console.error)
 
